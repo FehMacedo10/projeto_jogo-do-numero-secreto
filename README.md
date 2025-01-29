@@ -29,3 +29,19 @@ Este é um jogo simples onde o objetivo é adivinhar um número secreto gerado a
 1. Clone o repositório:
    ```bash
    git clone https://github.com/FehMacedo10/projeto_jogo-do-numero-secreto
+
+2. Abra o arquivo index.html no seu navegador.
+
+## Agradecimentos
+Agradeço à Alura e à Oracle por proporcionarem a oportunidade de participar deste programa de formação. Este projeto foi desenvolvido como parte do curso, e foi uma experiência incrível para aprimorar minhas habilidades em desenvolvimento web.
+
+<main>
+<h2>Desenvolvedor</h2>
+<p>
+   Criado por <a href="https://github.com/FehMacedo10" target="_blank">Felipe Macedo Ribeiro</a>.  
+   Conecte-se comigo no <a href="https://www.linkedin.com/in/felipe-macedo-dev/" target="_blank">LinkedIn</a>.
+</p>
+</main><br>
+<footer>
+   <p>&copy; 2025 Felipe Macedo Ribeiro/p>
+</footer>
