@@ -43,5 +43,5 @@ Agradeço à Alura e à Oracle por proporcionarem a oportunidade de participar d
 </p>
 </main><br>
 <footer>
-   <p>&copy; 2025 Felipe Macedo Ribeiro/p>
+   <p>&copy; 2025 Felipe Macedo Ribeiro</p>
 </footer>
